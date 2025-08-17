@@ -1,4 +1,4 @@
-Blockchain Assignments – Summary
+## Blockchain Assignments – Summary
 ## Tools & Technologies Used
 
 Solidity – for writing smart contracts.
